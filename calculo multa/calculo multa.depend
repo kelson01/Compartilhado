@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664898362 source:c:\users\kelson\desktop\aula ltp\calculo multa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
